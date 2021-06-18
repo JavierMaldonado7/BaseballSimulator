@@ -163,11 +163,6 @@ def Batter(Window):
     Head.draw(Window)
 
 
-
-
-
-
-
 def BatterUP(window):
 
 
