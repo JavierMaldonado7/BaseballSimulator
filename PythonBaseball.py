@@ -163,16 +163,19 @@ def Batter(Window):
     Head.draw(Window)
 
 
-def BatterUP(window):
 
 
-    if(globals()['pitching']):
 
-        if(window.getKey() == "space"):
+#def BatterUP(window):
 
-            globals()['batting'] = True
-        else:
-            globals()['batting'] = False
+
+    #if(globals()['pitching']):
+
+        #if(window.getKey() == "space"):
+
+            #globals()['batting'] = True
+        #else:
+            #globals()['batting'] = False
 
 
 
